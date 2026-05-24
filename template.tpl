@@ -14,6 +14,10 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "OpenAI Parameter Generator (Server)",
+  "categories": [
+  "UTILITY",  
+  "ANALYTICS"
+],
   "description": "Generates OpenAI-compatible contents, currency, and amount parameters from GA4 server event data.",
   "containerContexts": [
     "SERVER"
