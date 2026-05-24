@@ -72,4 +72,3 @@ value
 ## Resources
 
 * https://developers.openai.com/ads/conversions-api
-* https://developers.google.com/tag-platform/tag-manager/server-side/common-event-data
